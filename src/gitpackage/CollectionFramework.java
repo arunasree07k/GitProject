@@ -15,6 +15,8 @@ public class CollectionFramework {
 		al.add(5);
 		al.add(10);
 		System.out.println(al);
+		System.out.println("modified code");
+		System.out.println("2nd time modified code");
 	}
 
 }
